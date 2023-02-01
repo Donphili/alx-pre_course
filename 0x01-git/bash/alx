@@ -1,2 +1,4 @@
 #!/bin/Alx
-echo "SCHOOL"
+echo "Alx school"
+#!/bin/school
+echo "The school is open!"
