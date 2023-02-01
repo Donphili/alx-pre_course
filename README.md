@@ -1,1 +1,1 @@
-my second readme updated
+I'm a software engineer
