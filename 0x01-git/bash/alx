@@ -3,4 +3,7 @@ ALX
 =======
 #!/bin/bash
 The school is open!
+<<<<<<< HEAD
+>>>>>>> update_script
+=======
 >>>>>>> update_script
