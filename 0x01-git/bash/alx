@@ -1,5 +1,9 @@
 
 
+#!/bin/bash
+echo "ALX school is open"
+
+
 
 
 
@@ -13,5 +17,6 @@ The school is open!
 
 
 ALX 
+
 
 
