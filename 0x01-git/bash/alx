@@ -1,5 +1,10 @@
 
 #!/bin/Alx
+
+echo "Alx school"
+#!/bin/school
+echo "The school is open!"
+
 echo "SCHOOL"
 
 
@@ -25,6 +30,7 @@ The school is open!
 
 
 ALX 
+
 
 
 
