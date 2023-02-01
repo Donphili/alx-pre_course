@@ -1,3 +1,7 @@
+<<<<<<< master
+#!/bin/bash
+echo "ALX School"
+=======
 
 
 #!/bin/bash
@@ -20,3 +24,4 @@ ALX
 
 
 
+>>>>>>> Master
